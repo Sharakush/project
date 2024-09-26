@@ -203,6 +203,8 @@ dependencies {
     // Add Firebase Analytics
     implementation("com.google.firebase:firebase-analytics")
 
+     implementation 'com.google.firebase:firebase-auth'
+
     // Add any other Firebase dependencies here
 }
 
